@@ -1,0 +1,57 @@
+body{
+    background-color: #f0f0f0;
+}
+
+
+h1 {
+    color: #d62828;
+}
+
+h2 {
+    color: #b22222;
+}
+
+.container{
+    width:80vw;
+    max-width:1000px;
+    margin:5vh auto;
+    background-color: white;
+    padding: 20px;
+    border: 2px solid #ccc;
+}
+
+img {
+    width: 320px;
+    height: auto;
+}
+
+.container1{
+    margin:0 auto;
+    text-align: center;
+}
+
+hr {
+    border: 1px solid #d62828;
+}
+
+.container2 {
+  width: 90%;        /* fixed width for the whole flyer */
+  margin: 0 auto;    /* centers the container horizontally */
+  text-align: center; /* centers inline-block children */
+}
+
+section {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    text-align: center;
+}
+
+ul{
+    text-align:left;
+    list-style-position: inside;
+}
+
+.copyright{
+    text-align: center;;
+}
